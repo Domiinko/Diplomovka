@@ -1,0 +1,18 @@
+.column{
+  position: relative;
+  text-align: center;
+}
+.card-content{
+  position: relative;
+}
+.content{
+  color:black;
+
+  /*word-wrap    : break-word;*/
+  /*overflow-wrap: break-word;*/
+}
+.columns{
+  position: relative;
+  background: rgb(236, 226, 226);
+  padding: 2%;
+}
